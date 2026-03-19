@@ -4,7 +4,7 @@
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-Instead, please email us at **taylor@workspacemcp.com**
+Instead, please email us at **youssef2010.mahmoud@gmail.com**
 
 Please include as much of the following information as you can to help us better understand and resolve the issue:
 
@@ -18,14 +18,6 @@ Please include as much of the following information as you can to help us better
 
 This information will help us triage your report more quickly.
 
-## Supported Versions
-
-We release patches for security vulnerabilities. Which versions are eligible for receiving such patches depends on the CVSS v3.0 Rating:
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.4.x   | :white_check_mark: |
-| < 1.4   | :x:                |
 
 ## Security Considerations
 
@@ -37,7 +29,6 @@ When using this MCP server, please ensure:
 4. Regularly rotate OAuth refresh tokens
 5. Limit OAuth scopes to only what's necessary
 
-For more information on securing your use of the project, see https://workspacemcp.com/privacy
 
 ## Preferred Languages
 
